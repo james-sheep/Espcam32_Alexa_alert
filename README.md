@@ -1,5 +1,6 @@
 # Espcam32_Alexa_alert
 Reconhecimento facial como gatilho para reações da Alexa
+![esp](https://i.ytimg.com/vi/MsyTQG2ey9s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0mi7gUancN9Y58JRNY4ijQettKQ)
 
 # InteligentHome-I
 Primeiras Camadas de Inteligência no nosso Apartamento
@@ -99,7 +100,8 @@ Primeiras Camadas de Inteligência no nosso Apartamento
  
  Entre na sua conta ifttt e cria um novo app :
  
- 
+
+ [Tutorial de referência](https://www.youtube.com/watch?v=jByHO91Gk1A)
 
  
  
